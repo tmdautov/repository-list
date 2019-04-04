@@ -1,28 +1,28 @@
-# Мои репозитории
+# My repositories
 
 ### Frontend
-- https://github.com/tmdautov/algorithms
-- https://github.com/tmdautov/books-summaries
-- https://github.com/tmdautov/design-patterns
-- https://github.com/tmdautov/acm
-- https://github.com/tmdautov/frontend-bookmarks
+- [algorithms](https://github.com/tmdautov/algorithms)
+- [books-summaries](https://github.com/tmdautov/books-summaries)
+- [design-patterns](https://github.com/tmdautov/design-patterns)
+- [acm](https://github.com/tmdautov/acm)
+- [frontend-bookmarks](https://github.com/tmdautov/frontend-bookmarks)
 
 ### Courses
-- https://github.com/tmdautov/coursera-yandex-frontend
-- https://github.com/tmdautov/frontend-courses
+- [coursera-yandex-frontend](https://github.com/tmdautov/coursera-yandex-frontend)
+- [frontend-courses](https://github.com/tmdautov/frontend-courses)
 
 ### Projects
-- https://github.com/tmdautov/kazzinc
+- [kazzinc](https://github.com/tmdautov/kazzinc)
 
 ### Test tasks
-- https://github.com/tmdautov/soshace.com
+- [soshace.com](https://github.com/tmdautov/soshace.com)
 
 ### Other
-- https://github.com/tmdautov/tmdautov.io
+- [tmdautov.io](https://github.com/tmdautov/tmdautov.io)
 
 ### Books
-- https://github.com/tmdautov/books
+- [books](https://github.com/tmdautov/books)
   
 # Not my repos
-- https://github.com/jsninja-BC1-2017-1/test-task
+- []()https://github.com/jsninja-BC1-2017-1/test-task
 - 
