@@ -16,8 +16,10 @@
 
 ### Тестовые задания
 - https://github.com/tmdautov/soshace.com
+
 ### Other
 - https://github.com/tmdautov/tmdautov.io
+
 ### Books
 - https://github.com/tmdautov/books
   
