@@ -1,6 +1,6 @@
 # Мои репозитории
 
-### frontend
+### Frontend
 - https://github.com/tmdautov/algorithms
 - https://github.com/tmdautov/books-summaries
 - https://github.com/tmdautov/design-patterns
@@ -14,7 +14,7 @@
 ### Projects
 - https://github.com/tmdautov/kazzinc
 
-### Тестовые задания
+### Test tasks
 - https://github.com/tmdautov/soshace.com
 
 ### Other
