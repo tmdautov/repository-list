@@ -1,4 +1,4 @@
-# repository-list
+# Мои репозитории
 - frontend
   - https://github.com/tmdautov/algorithms
   - https://github.com/tmdautov/books-summaries
