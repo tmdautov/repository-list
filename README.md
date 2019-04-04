@@ -15,7 +15,7 @@
 - [frontend-courses](https://github.com/tmdautov/frontend-courses)
 
 ### Projects
-- [kazzinc](https://github.com/tmdautov/kazzinc)
+- hello
 
 ### Test tasks
 - [soshace.com](https://github.com/tmdautov/soshace.com)
