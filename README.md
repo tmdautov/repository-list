@@ -1,10 +1,13 @@
 # My repositories
 
-### Frontend
+### Algorithms
 - [algorithms](https://github.com/tmdautov/algorithms)
+- [acm](https://github.com/tmdautov/acm)
+ 
+
+### Frontend
 - [books-summaries](https://github.com/tmdautov/books-summaries)
 - [design-patterns](https://github.com/tmdautov/design-patterns)
-- [acm](https://github.com/tmdautov/acm)
 - [frontend-bookmarks](https://github.com/tmdautov/frontend-bookmarks)
 
 ### Courses
