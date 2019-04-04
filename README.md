@@ -13,9 +13,13 @@
 ### Courses
 - [coursera-yandex-frontend](https://github.com/tmdautov/coursera-yandex-frontend)
 - [frontend-courses](https://github.com/tmdautov/frontend-courses)
+- coding interview bootcamp
+- 
 
 ### Projects
-- hello
+- sport-events.kz
+- atelier.kz
+- tmdautov.io
 
 ### Test tasks
 - [soshace.com](https://github.com/tmdautov/soshace.com)
